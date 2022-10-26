@@ -1,4 +1,7 @@
 # Customer-ID-Verification-System
+
+![customer-verfication-image](https://fully-verified.com/wp-content/uploads/2022/04/1-2.png.webp)
+
 This is a system that takes in customer international passport as ID, extracts information from it and verifies it from a record.
 
 # Guide
